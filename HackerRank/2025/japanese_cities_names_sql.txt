@@ -1,0 +1,6 @@
+SELECT NAME FROM CITY WHERE COUNTRYCODE = 'JPN'
+
+Exercise anotations:
+- Name: Japanese Cities' Names
+- Difficulty: Easy
+- Score: 10/10

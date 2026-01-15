@@ -1,0 +1,10 @@
+SELECT CITY.NAME 
+FROM CITY 
+INNER JOIN COUNTRY ON CITY.COUNTRYCODE = COUNTRY.CODE 
+WHERE COUNTRY.CONTINENT = 'Africa'
+
+
+Exercise anotations:
+- Name: African Cities
+- Difficulty: Easy
+- Score: 10/10
