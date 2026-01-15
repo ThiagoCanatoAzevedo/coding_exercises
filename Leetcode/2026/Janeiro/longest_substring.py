@@ -19,7 +19,7 @@ def lengthOfLongestSubstring(s):
 Anotações importantes por exercício:
 - Nome exercício: Longest Substring Without Repeating Characters
 - Data realizado: 14/01/2026
-- Tempo de desenvolvimento: 50 minutos
+- Tempo de desenvolvimento: 50min
 - Dificuldade (leetcode): Médio
 - Dificuldade (pessoal): Médio
 - Tópico trabalhado: Strings e Sliding Window
