@@ -18,8 +18,6 @@ def maxArea(height):
     
     return max_area
     
-maxArea([1,8,6,2,5,4,8,3,7])
-
 """
 Anotações importantes por exercício:
 - Nome exercício: Container With Most Water

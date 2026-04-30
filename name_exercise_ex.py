@@ -1,5 +1,3 @@
-# Código aqui
-
 """
 Anotações importantes por exercício:
 - Nome exercício:
@@ -14,4 +12,5 @@ Anotações importantes por exercício:
 - Resumo da solução/ideia:
 - Onde travei:
 """
+
 # Para não ter que escrever nada disso acima, apenas escrever "exnotes" e pressionar ENTER

@@ -9,9 +9,9 @@ def reverse(x):
 
     return x_rev
 
-print(reverse(123))      # 321
-print(reverse(-123))     # -321
-print(reverse(1534236469))  # 0 (overflow)
+print(reverse(123))     
+print(reverse(-123))     
+print(reverse(1534236469))  
 
 """
 Exercise annotations:
