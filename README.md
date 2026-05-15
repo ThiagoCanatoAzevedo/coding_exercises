@@ -5,7 +5,6 @@ A comprehensive collection of coding exercise solutions from multiple platforms,
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Repository Structure](#repository-structure)
 - [Platforms](#platforms)
 - [Languages](#languages)
 - [Documentation Template](#documentation-template)
@@ -21,45 +20,6 @@ This repository serves as a personal coding practice workspace containing soluti
 - Time and space complexity analysis
 - Development progress and learning insights
 - Performance metrics (runtime, memory usage)
-
-## Repository Structure
-
-```
-Coding Exercises/
-├── HackerRank/                 # HackerRank challenges
-│   ├── 2025/                   # Year-based organization
-│   │   └── Exati/              # Company-specific challenges
-│   │       ├── african_cities_names_sql.txt
-│   │       ├── camel_case.js
-│   │       ├── compareTriplets.py
-│   │       ├── full_counting_sort.py
-│   │       ├── functions.js
-│   │       ├── loops.js
-│   │       ├── plus_minus.js
-│   │       └── stair_case.js
-│   └── 2026/                   # Recent exercises
-│       ├── Amazon/             # Company-specific track
-│       ├── BTG Pactual/        # Financial institution track
-│       └── IBM/                # Technology company track
-│
-├── Leetcode/                   # Leetcode problems
-│   ├── 2025/                   # Previous year solutions
-│   │   ├── add_two_numbers.py
-│   │   ├── median_two_sorted_arrays.py
-│   │   ├── palindrome.py
-│   │   ├── reverse_integer.py
-│   │   └── roman_to_integer.py
-│   └── 2026/                   # Current year problems
-│       └── Janeiro/            # Monthly organization
-│           ├── longest_palindromic.py
-│           ├── longest_substring.py
-│           ├── most_water.py
-│           └── valid_parentheses.py
-│
-├── name_exercise_ex.py         # Exercise documentation template
-├── README.md                   # This file
-└── .git/                       # Version control
-```
 
 ## Platforms
 
@@ -162,15 +122,6 @@ git commit -m "Add exercise: [problem_name]"
 - **HackerRank**: Preparation for company interviews, skill development
 - **Leetcode**: Technical interview preparation, daily challenges
 
-### By Time
-- **Year-based folders**: Track progression and improvement over time
-- **Monthly organization** (Leetcode 2026): Monitor consistency and frequency
-
-### By Company (HackerRank 2026)
-- **Amazon**: Web services, scaling, optimization problems
-- **BTG Pactual**: Quantitative finance, algorithm optimization
-- **IBM**: Enterprise systems, distributed computing
-
 ## Tips for Success
 
 1. **Document thoroughly** - Use the template to capture your learning
@@ -188,14 +139,3 @@ As you progress through this repository, track:
 - Improvement in solution time
 - Mastered topics and weak areas
 - Language-specific progress
-
----
-
-## License
-
-This repository is for personal learning and interview preparation purposes.
-
----
-
-**Last Updated**: April 2026  
-**Repository Status**: Active - Ongoing practice and skill development
