@@ -25,7 +25,7 @@ print(majorityElement([3,2,3]))
 Anotações importantes por exercício:
 - Nome exercício: Majority Element
 - Data realizado: 23/05/2026
-- Tempo de desenvolvimento:
+- Tempo de desenvolvimento: 15 minutos
 - Dificuldade (leetcode): Easy
 - Dificuldade (pessoal): Easy
 - Tópico trabalhado:Array, Hash Table, Divide and Conquer, Sorting and Counting
