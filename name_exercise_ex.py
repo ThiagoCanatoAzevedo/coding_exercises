@@ -13,4 +13,3 @@ Anotações importantes por exercício:
 - Onde travei:
 """
 
-# Para não ter que escrever nada disso acima, apenas escrever "exnotes" e pressionar ENTER
